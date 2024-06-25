@@ -1,0 +1,3 @@
+# NEXTJS AYUDA - Duolingo Clone
+
+A [Duolingo](https://www.duolingo.com) web app clone written with [Nextjs], [TypeScript](https://www.typescriptlang.org/), [Tailwind](https://tailwindcss.com/), and [Zustand](https://github.com/pmndrs/zustand). I used the original repo from [Bryan Jenningz](https://github.com/bryanjenningz/react-duolingo) but am heavily modifiying it using component libraries such as Shadcn. 
